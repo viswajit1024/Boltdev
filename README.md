@@ -1,1 +1,1 @@
-# Hostify
+# Boltdev clone using Anthropic AI SDK
